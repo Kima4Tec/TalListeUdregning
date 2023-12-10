@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalListeUdregning", "TalListeUdregning\TalListeUdregning.csproj", "{B4E33D4A-DF04-4476-9998-BC939E3BAF03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E33D4A-DF04-4476-9998-BC939E3BAF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E33D4A-DF04-4476-9998-BC939E3BAF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E33D4A-DF04-4476-9998-BC939E3BAF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E33D4A-DF04-4476-9998-BC939E3BAF03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8450184-C91C-492C-B556-7947F14225FE}
+	EndGlobalSection
+EndGlobal
